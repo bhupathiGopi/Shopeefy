@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208476662962",
+    "project_id": "shopefy-eadc8",
+    "storage_bucket": "shopefy-eadc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208476662962:android:d8b4c2b6a22086a74dedab",
+        "android_client_info": {
+          "package_name": "com.shopeefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208476662962-glnlmjsk26pjuoehjtkf5hph6qispcdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9D13kdyXMMAcjJrI7e6ozLj97ELLrSZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208476662962-glnlmjsk26pjuoehjtkf5hph6qispcdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
